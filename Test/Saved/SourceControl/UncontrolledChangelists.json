@@ -6,8 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Repo/KZero/Test/Content/KZero/Maps/Manila.umap",
-				"E:/Repo/KZero/Test/Content/Maps/Manila.umap",
-				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/cube.uasset",
 				"E:/Repo/KZero/Test/Content/KZero/Meshes/cube.uasset",
 				"E:/Repo/KZero/Test/Content/KZero/Maps/Showcase.umap",
 				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/ss_BLDG_EtonBaypark.uasset",
@@ -74,6 +72,9 @@
 				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/ss_pPlane6.uasset",
 				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/ss_RD_ThreeLanes.uasset",
 				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/ss_RD_TwoLanes.uasset",
+				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/Cube.uasset",
+				"E:/Repo/KZero/Test/Content/Maps/Manila.umap",
+				"E:/Repo/KZero/Test/Content/KZero/Meshes/Layout/cube.uasset",
 				"E:/UE Projects/Test/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"E:/UE Projects/Test/Content/Maps/Manila.umap"
 			]
